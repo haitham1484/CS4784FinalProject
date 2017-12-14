@@ -48,7 +48,6 @@ The following **items** are delivered:
 
 Room for improvment: 
 1. More oomph
-2. Better information
 
 
 ## Notes
