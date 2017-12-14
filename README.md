@@ -1,5 +1,5 @@
 # CS4784FinalProject
-Final deliverables:  Slide deck (n/a), Paper , Code
+Final deliverables: Paper , Code, Final Deliverables
 
 
 
