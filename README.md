@@ -39,6 +39,9 @@ what you would do to iterate the design and/or the testing.
 what your project adds to the literature
 an (honest) assessment of how well your idea panned out and how likely your project is to change power or equity.
 
+[Report](CS4784_Project_Report.pdf)
+
+
 The following **items** are delivered:
 - [X] Paper
 - [X] Code (http://cs4784project.info/)
