@@ -1,17 +1,12 @@
 # CS4784FinalProject
-Final deliverables:  Slide deck, Paper Code (compiled), Code (raw, with instructions about how to compile)
-
-
-
-
+Final deliverables:  Slide deck (n/a), Paper , Code
 
 
 
 # Final Project - *cs4784project.info*
 
-**Project** is a website 
+**Project** is a website http://cs4784project.info/
 
-Time spent: **∞** hours spent in total
 
 ## Design
 
@@ -31,33 +26,30 @@ involve a technological intervention that you can build in a few weeks at least 
 
 The following **required** features are included in the paper:
 
-- [ ] The rationale for the project.
-- [ ] The write-up in SIGCHI Paper Format. 
-- [ ] At least five citations.
-- [ ] A clear explanation of the project concept.
-- [ ] Identify what parts of the project change authority or promote equity.
-- [ ] An explanation of the implementation
-- [ ] An explanation of the testing
-- [ ] A discussion including:
+- [X] The rationale for the project.
+- [X] The write-up in SIGCHI Paper Format. 
+- [X] At least five citations.
+- [X] A clear explanation of the project concept.
+- [X] Identify what parts of the project change authority or promote equity.
+- [X] An explanation of the implementation
+- [X] An explanation of the testing
+- [X] A discussion including:
 what you learned from testing,
 what you would do to iterate the design and/or the testing.
 what your project adds to the literature
 an (honest) assessment of how well your idea panned out and how likely your project is to change power or equity.
 
 The following **items** are delivered:
-- [ ] Slide deck
-- [ ] Paper
-- [ ] Code (compiled)
-- [ ] Code (raw, with instructions about how to compile)
+- [X] Paper
+- [X] Code (http://cs4784project.info/)
 
 Room for improvment: 
-
 1. More oomph
 2. Better information
 
 
 ## Notes
-Challenges I encountered include not realizing that many API’s for IP geolocation cost money. Nevertheless a solid informational website on the topic was a great solution.   
+Challenges I encountered include setting up a website and finding articles on the topic. Overcoming a curious case of writers block was also a part of my experiance. 
 
 ## License
 
