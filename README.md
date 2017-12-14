@@ -7,9 +7,9 @@ Final deliverables:  Slide deck, Paper Code (compiled), Code (raw, with instruct
 
 
 
-# Final Project - *Name of Project Here*
+# Final Project - *cs4784project.info*
 
-**Name of Project** is a website 
+**Project** is a website 
 
 Time spent: **∞** hours spent in total
 
@@ -52,18 +52,12 @@ The following **items** are delivered:
 
 Room for improvment: 
 
-1. 
-2. 
+1. More oomph
+2. Better information
 
-## Additonal resources: 
-
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
-
-Describe any challenges encountered.
+Challenges I encountered include not realizing that many API’s for IP geolocation cost money. Nevertheless a solid informational website on the topic was a great solution.   
 
 ## License
 
