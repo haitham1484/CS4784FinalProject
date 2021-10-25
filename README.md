@@ -2,9 +2,6 @@
 Final deliverables: Paper , Code, Final Deliverables
 
 
-
-# Final Project - *cs4784project.info*
-
 **Project** is a website http://cs4784project.info/
 
 
